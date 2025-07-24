@@ -1,3 +1,3 @@
 # MovieTicketBookingSystem
 
-A fully advanced System in (Java Spiring Boot)
+A fully advanced System in (Java Spiring Boot.)
